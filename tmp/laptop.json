@@ -1,0 +1,62 @@
+{
+  "id": "195ee9b0-8e0a-4255-9ba0-4cd61a6916a3",
+  "brand": "Lenovo",
+  "name": "Yoga Series",
+  "cpu": {
+    "brand": "AMD",
+    "name": "Ryzen 7 PRO 3280U",
+    "number_cores": 2,
+    "number_threads": 8,
+    "min_ghz": 3.0302346093006642,
+    "max_ghz": 3.192342647712654
+  },
+  "ram": {
+    "value": "3",
+    "unit": "GIGABYTE"
+  },
+  "gpus": [
+    {
+      "brand": "NVIDIA",
+      "name": "GTX 1660Ti",
+      "min_ghz": 1.4068199804950483,
+      "max_ghz": 1.7053281266785678,
+      "memory": {
+        "value": "6",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": "SSD",
+      "memory": {
+        "value": "5",
+        "unit": "TERABYTE"
+      }
+    },
+    {
+      "driver": "HDD",
+      "memory": {
+        "value": "3",
+        "unit": "TERABYTE"
+      }
+    }
+  ],
+  "screen": {
+    "size_inch": 13.874212,
+    "resolution": {
+      "width": 7272,
+      "height": 4091
+    },
+    "panel": "IPS",
+    "multitouch": true
+  },
+  "keyboard": {
+    "layout": "QMERTZ",
+    "blacklit": false
+  },
+  "weight_kg": 2.484807931285227,
+  "price_usd": 2793.7371561718296,
+  "release_year": 2018,
+  "update_at": "2020-07-24T10:56:31.621173060Z"
+}
